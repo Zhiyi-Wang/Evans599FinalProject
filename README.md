@@ -5,8 +5,8 @@
 
 * Ying	Yang
 * Yiwen	Yang
-* Qiqi	Wang
 * Zhiyi	Wang
+* Qiqi	Wang
 
 <center>
 <img src="https://github.com/ps0205vi/Yorozuya/raw/master/heads.jpg" width="800">
