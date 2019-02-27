@@ -14,9 +14,9 @@
 
 In this repo you can find:
 
-* The final [report](http://htmlpreview.github.io/?https://github.com/EvansDataScience/basicFinal_CompThink/blob/master/Analytics.html)
+* The final [report](http://htmlpreview.github.io/?https://github.com/ps0205vi/Evans599FinalProject/blob/master/Analytics.html)
 
-* The folder [data](https://github.com/EvansDataScience/Evans599FinalProject/tree/master/data) with all the original files.
+* The [raw data](https://github.com/ps0205vi/Evans599FinalProject/blob/master/RawVPKdata.csv). Source: 2000 American Community Survey (ACS)
 
 * The [preprocessed data](https://github.com/ps0205vi/Evans599FinalProject/blob/master/VPKdata.csv).
 
