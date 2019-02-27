@@ -1,5 +1,5 @@
 # Final Project: US Prekindergarten Attendance in 2000
-## Course: Computational Thinking for Governance Analytics
+## Course: Visual Analytics for Policy and Management
 
 ## Group: 
 
