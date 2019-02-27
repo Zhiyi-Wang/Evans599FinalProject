@@ -1,15 +1,15 @@
-# Final Project
+# Final Project: US Prekindergarten Attendance in 2000
 ## Course: Computational Thinking for Governance Analytics
 
 ## Group: 
 
-* Student A
-* Student B
-* Student C
-* Student D
+* Ying	Yang
+* Yiwen	Yang
+* Qiqi	Wang
+* Zhiyi	Wang
 
 <center>
-<img src="https://github.com/EvansDataScience/basicFinal_CompThink/raw/master/groupPic.png" width="800">
+<img src="https://github.com/ps0205vi/Yorozuya/raw/master/heads.jpg" width="800">
 </center>
 
 In this repo you can find:
