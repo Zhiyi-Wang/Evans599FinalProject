@@ -18,6 +18,6 @@ In this repo you can find:
 
 * The folder [data](https://github.com/EvansDataScience/basicFinal_CompThink/tree/master/data) with all the original files.
 
-* The [preprocessed data](https://github.com/EvansDataScience/basicFinal_CompThink/blob/master/dataProject.csv).
+* The [preprocessed data](https://github.com/ps0205vi/Evans599FinalProject/blob/master/VPKdata.csv).
 
 * The Python [code](https://nbviewer.jupyter.org/github/EvansDataScience/basicFinal_CompThink/blob/master/projectDataPreprocessing.ipynb) to pre process the data.
