@@ -1,7 +1,7 @@
 # Final Project: US Prekindergarten Attendance in 2000
 ## Course: Visual Analytics for Policy and Management
 
-## Group: 
+## "Ws-and-Ys" Group
 
 * Ying	Yang
 * Yiwen	Yang
