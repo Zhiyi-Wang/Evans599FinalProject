@@ -20,4 +20,4 @@ In this repo you can find:
 
 * The [preprocessed data](https://github.com/ps0205vi/Evans599FinalProject/blob/master/VPKdata.csv).
 
-* The Python [code](https://nbviewer.jupyter.org/github/EvansDataScience/basicFinal_CompThink/blob/master/projectDataPreprocessing.ipynb) to pre process the data.
+* The [code book](https://github.com/ps0205vi/Evans599FinalProject/blob/master/599 Code Book.csv) to pre process the data.
