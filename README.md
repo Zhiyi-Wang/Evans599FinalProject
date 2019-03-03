@@ -1,7 +1,7 @@
 # Final Project: US Prekindergarten Attendance in 2000
 ## Course: Visual Analytics for Policy and Management
 
-## "Ws-and-Ys" Group
+## "Ws-and-Ys" Group:
 
 * Ying	Yang
 * Yiwen	Yang
@@ -20,4 +20,4 @@ In this repo you can find:
 
 * The [preprocessed data](https://github.com/ps0205vi/Evans599FinalProject/blob/master/VPKdata.csv).
 
-* The [code book](https://github.com/ps0205vi/Evans599FinalProject/blob/master/599CodeBook.csv) to pre process the data.
+* The [code book](https://github.com/ps0205vi/Evans599FinalProject/blob/master/599CodeBook.csv).
