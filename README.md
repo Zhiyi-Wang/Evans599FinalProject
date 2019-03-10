@@ -20,4 +20,4 @@ In this repo you can find:
 
 * The [preprocessed data](https://github.com/ps0205vi/Evans599FinalProject/blob/master/VPKdata.csv).
 
-* The [code book](https://github.com/ps0205vi/Evans599FinalProject/blob/master/599CodeBook.csv).
+* The [codebook](https://github.com/ps0205vi/Evans599FinalProject/blob/master/599CodeBook.csv).
