@@ -14,7 +14,7 @@
 
 In this repo you can find:
 
-* The final [report](http://htmlpreview.github.io/?https://github.com/ps0205vi/Evans599FinalProject/blob/master/Analytics.html)
+* The final [report](http://htmlpreview.github.io/?https://github.com/ps0205vi/Evans599FinalProject/blob/master/Analytics.html).
 
 * The [raw data](https://github.com/ps0205vi/Evans599FinalProject/blob/master/RawVPKdata.csv). Source: 2000 American Community Survey (ACS)
 
